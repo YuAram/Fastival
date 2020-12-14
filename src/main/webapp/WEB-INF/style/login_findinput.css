@@ -1,0 +1,74 @@
+@CHARSET "UTF-8";
+
+#idpwsearchinput {
+	width: 1000px;
+	height: 600px;
+	margin: auto;
+	padding: 15px;
+}
+#idpwsearchinputin{
+	border: solid 1px black;
+	height: 500px;
+	margin: auto;
+}
+#emailinputbox{
+	width: 700px;
+	height: 50px;
+	margin: auto;
+	display: -webkit-box;
+}
+#usersEmail{
+	width: 150px;
+}
+#nameinputbox{
+	width: 700px;
+	height: 50px;
+	margin: auto;
+	display: -webkit-box;
+}
+#usersName{
+	width: 150px;
+}
+#idinputbox{
+	width: 700px;
+	height: 50px;
+	margin: auto;
+	display: -webkit-box;
+}
+#usersId{
+	width: 150px;
+}
+#idpwsearchquebox{
+	width: 700px;
+	height: 50px;
+	margin: auto;
+	display: -webkit-box;
+}
+#queidpw{
+	width: 115px;
+}
+#queidpwslc{
+	width: 300px;
+}
+#idpwsearchansbox{
+	width: 700px;
+	height: 50px;
+	margin: auto;
+	display: -webkit-box;
+}
+#usersPassques{
+	width: 150px;
+}
+#searchbtn{
+	margin-left: 15px;
+}
+#idsearchin{
+	width: 800px;
+	margin: auto;
+	padding: 15px;
+}
+#pwsearchin{
+	width: 800px;
+	margin: auto;
+	padding: 15px;
+}

@@ -1,0 +1,83 @@
+@CHARSET "UTF-8";
+
+header {
+	margin: auto;
+	width: 1200px;
+	padding: 10px;
+}
+footer {
+	margin: auto;
+	width: 1200px;
+}
+div {
+	flex: none;
+}
+#fastivallogo {
+	float: left;
+}
+#search {
+	padding: 20px;
+	float: right;
+	width: 500px;
+}
+#searchgr{
+	display: -webkit-box;
+}
+#stext{
+	width: 400px;
+}
+#logon{
+	height: 15px;
+	border-radius : 3px;
+	border: solid 1px black;
+}
+#logoff{
+	height: 15px;
+	border-radius : 3px;
+	border: solid 1px gray;
+}
+#sitemap {
+	float: right;
+}
+#headmenuul1 {
+	border: solid 1px gray;
+	width: 240px;
+}
+#headmenuul2 {
+	border: solid 1px gray;
+	width: 240px;
+}
+#headmenuul3 {
+	border: solid 1px gray;
+	width: 240px;
+}
+#headmenuul4 {
+	border: solid 1px gray;
+	width: 240px;
+}
+#headmenuul5 {
+	border: solid 1px gray;
+	width: 240px;
+}
+#mainfoot{
+	display: -webkit-box;
+	height: 50px;
+	margin-bottom: 50px;
+	margin-top: 30px;
+}
+#fastivalci{
+	width: 200px;
+}
+#fastivalfootlogo{
+	height: 40px;
+}
+#fastivalinfo{
+	width: 750px; 
+}
+#sitegogo{
+	width: 250px; 
+}
+#jumpMenu{
+	width: 240px; 
+	height: 30px;
+}
